@@ -13,4 +13,21 @@ img{
   margin: 0 10% 0 10%;
 }
 
+p{
+  font-size:15px;
+  padding:5px;
+  font-family: Hulvetica;
+  text-transform:uppercase;
+}
+
+#mymenu{
+  font-family:Arial;
+  padding:2px;
+}
+.mymenu2{
+  font-family:Arial;
+  padding:2px;
+}
+
+
   
